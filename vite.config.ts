@@ -4,7 +4,7 @@ import vue from '@vitejs/plugin-vue'
 import { fileURLToPath } from 'url'
 
 // https://vite.dev/config/
-const base = process.env.BASE_URL || '/resume/';
+const base = process.env.BASE_URL || '/.resume/';
 
 export default defineConfig({
   base,
