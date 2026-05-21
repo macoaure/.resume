@@ -1,0 +1,747 @@
+{
+  "header": {
+    "name": "Marcos Aurelio",
+    "headline": "Senior Backend Engineer - Product Engineering, APIs & Software Architecture - PHP, Go, AWS, Kubernetes - CI/CD, Observability & Distributed Systems",
+    "location": "Londrina, Paraná, Brasil",
+    "remote": "Remoto",
+    "email": "macosaures@gmail.com",
+    "phone": "+55 43 99912-3668",
+    "linkedin": "linkedin.com/in/macoaure"
+  },
+  "sections": {
+    "summary": "Resumo profissional",
+    "skills": "Competências principais",
+    "experience": "Experiência profissional",
+    "certifications": "Certificações e cursos relevantes",
+    "education": "Formação acadêmica",
+    "languages": "Idiomas"
+  },
+  "professional_summary": {
+    "paragraph1": "Sou desenvolvedor sênior com experiência em backend engineering, arquitetura de software, APIs, integrações ERP, microsserviços, plataformas cloud-native, CI/CD, observabilidade e sistemas distribuídos. Minha base técnica principal está em PHP e seu ecossistema, com atuação também em Go, Laravel, Symfony, Magento, Adobe Commerce, Ruby on Rails, Node.js, RESTful APIs, GraphQL, MySQL, PostgreSQL, Redis, Docker, Kubernetes, AWS, GitLab CI, GitHub Actions, Argo CD, Grafana, Prometheus, Loki e ELK Stack.",
+    "paragraph2": "Atuo em produtos digitais, sistemas SaaS, e-commerce, integrações críticas, fluxos transacionais, modernização de legado, automação operacional e sustentação de plataformas de alta complexidade. Gosto de trabalhar próximo ao produto e ao negócio, entendendo o problema, avaliando trade-offs técnicos e construindo soluções evolutivas, resilientes, observáveis e sustentáveis no longo prazo.",
+    "paragraph3": "Tenho perfil de ownership end-to-end. Desenho soluções, implemento serviços, reviso arquitetura, acompanho métricas, participo de decisões técnicas, apoio pessoas desenvolvedoras, melhoro processos de entrega, reduzo débitos técnicos e ajudo a mitigar riscos operacionais em produção."
+  },
+  "skills_details": {
+    "backend": "Backend e desenvolvimento web: PHP, Go, Laravel, Symfony, Magento, Adobe Commerce, Zend Framework, Ruby on Rails, Node.js, RESTful APIs, GraphQL, serviços backend, integração entre sistemas e aplicações web orientadas a produto.",
+    "architecture": "Arquitetura e engenharia de software: system design, arquitetura de software, microsserviços, sistemas distribuídos, arquitetura evolutiva, arquitetura resiliente, Clean Code, SOLID, Design Patterns, refatoração, redução de débitos técnicos, modernização de legado e análise de trade-offs.",
+    "data": "Dados, cache e performance: MySQL, PostgreSQL, Redis, SQL, modelagem de dados, otimização de consultas, cache, arquitetura MySQL master-slave, análise de performance e melhoria de desempenho em sistemas de alto volume.",
+    "integration": "Integrações, ERP e sistemas críticos: integrações ERP, integrações bancárias, gateways de pagamento, marketplaces, logística, fluxos transacionais, automações operacionais, APIs de negócio e continuidade operacional em sistemas críticos.",
+    "cloud": "Cloud, DevOps e entrega contínua: AWS, Kubernetes, Docker, GitOps, Argo CD, GitHub Actions, GitLab CI, GitLab, GitHub, pipelines de CI/CD, automação de deploy, ambientes de staging e produção, rastreabilidade e governança operacional.",
+    "observability": "Observabilidade, qualidade e operação: Grafana, Prometheus, Loki, Promtail, Alertmanager, ELK Stack, logs, métricas, alertas, análise de incidentes, MTTR, disponibilidade, testes automatizados, testes unitários, suporte técnico avançado e acompanhamento de comportamento real em produção.",
+    "leadership": "Liderança técnica e colaboração: revisão de código, orientação técnica, onboarding, programação em pares, documentação, decisão técnica, comunicação com produto, alinhamento com negócio e melhoria contínua de times e plataformas."
+  },
+  "experience": [
+    {
+      "company": "1Doc",
+      "position": "Software Engineer III / Senior Product Engineer, Backend & Platform",
+      "period": "Outubro de 2025 - Atual",
+      "location": "Londrina, Paraná, Brasil",
+      "description": "Atuo como engenheiro backend orientado a produto, com foco em arquitetura, API design, system design, observabilidade, execução em produção e entrega sustentável para software crítico de negócio. Transformo requisitos de produto e operação em desenhos backend, contratos RESTful API, fluxos de dados, planos de implementação e entregas prontas para produção.\nConstruo e evoluo serviços considerando escalabilidade, resiliência, modelagem de banco de dados, cache, automação, testes, confiabilidade operacional e manutenibilidade. Apoio decisões técnicas sêniores conectando objetivos de negócio, impacto no usuário, risco operacional, velocidade de entrega, débito técnico e sustentabilidade arquitetural."
+    },
+    {
+      "company": "PHP",
+      "position": "Open Source Contributor",
+      "period": "Janeiro de 2020 - Atual",
+      "location": "Brasil",
+      "description": "Contribuo de forma intermitente com PHP core e php-web por meio de melhorias, correções e discussões técnicas. Essa participação fortaleceu minha base em engenharia backend, qualidade de código, funcionamento do ecossistema PHP e fundamentos de tecnologias amplamente usadas em produtos web."
+    },
+    {
+      "company": "UniFil",
+      "position": "Professor de Ciência da Computação, Engenharia de Software & System Design",
+      "period": "Julho de 2025 - Abril de 2026",
+      "location": "Londrina, Paraná, Brasil",
+      "description": "Ministrei conteúdos de desenvolvimento de software conectando conceitos acadêmicos com engenharia backend, APIs, arquitetura, system design, programação orientada a objetos, MVC, qualidade de software, entrega contínua e fundamentos de sistemas distribuídos aplicados ao mundo real.\nOrientei alunos em práticas de engenharia, organização de código, desenvolvimento web, modelagem de aplicações e entrega incremental, desenvolvendo comunicação técnica, mentoria e capacidade de formação de pessoas."
+    },
+    {
+      "company": "MACO Studios",
+      "position": "Product Engineering Consultant / Backend & Platform",
+      "period": "Novembro de 2024 - Dezembro de 2025",
+      "location": "Brasil",
+      "description": "Atuei como consultor em product engineering, backend e plataforma, entregando soluções digitais para automação, modernização de infraestrutura, integrações, arquitetura backend, workflows de negócio e melhoria de operação em diferentes contextos de produto.\nDesenhei e implementei sistemas com foco em escalabilidade, qualidade de integração, performance, APIs, CI/CD, DevOps, cloud e observabilidade. Também apoiei times em GitOps, testes, microsserviços, padronização de engenharia e melhoria do fluxo de entrega."
+    },
+    {
+      "company": "Belagrícola",
+      "position": "Product Engineer / Backend & Platform Engineer",
+      "period": "Abril de 2024 - Agosto de 2025",
+      "location": "Londrina, Paraná, Brasil",
+      "description": "Assumi o ciclo técnico de iniciativas de produto, desde o desenho arquitetural e implementação backend até automação de entrega, observabilidade, resposta a incidentes e confiabilidade em produção. Redesenhei infraestrutura cloud com AWS e Kubernetes, reduzindo incidentes críticos em mais de 90% e sustentando 99,9% de disponibilidade da plataforma.\nConstruí pipelines de CI/CD com GitHub Actions e Argo CD, reduzindo o tempo de deploy de 40 para 12 minutos e removendo pontos manuais de falha no release. Também implementei uma stack de observabilidade com Grafana, Loki, Promtail, Prometheus e Alertmanager, reduzindo o tempo médio de recuperação de aproximadamente duas horas para menos de seis minutos.\nMantive e evoluí serviços backend, integrações, workflows de produto e fluxos críticos de negócio com foco em confiabilidade, estabilidade operacional, métricas reais de uso, performance e disponibilidade. Entreguei integrações ERP e bancárias sem interrupção em fluxos críticos, protegendo a continuidade do produto durante mudanças técnicas de alto risco.\nCriei ferramentas internas que reduziram o tempo de resposta do suporte em 35% e aumentaram a vida útil de componentes da plataforma por meio de melhor diagnóstico, visibilidade operacional e automação. Também planejei e executei mais de 70 sprints no Jira, alinhando entregas incrementais com KPIs de produto, restrições operacionais, metas de confiabilidade e trade-offs técnicos."
+    },
+    {
+      "company": "Bis2Bis E-commerce",
+      "position": "Software Architect / Product & Platform Engineering",
+      "period": "Março de 2022 - Abril de 2024",
+      "location": "Londrina, Paraná, Brasil",
+      "description": "Liderei decisões de arquitetura, modernização e plataforma de produto em comércio digital, infraestrutura, integrações, ferramentas internas, developer experience e sistemas de engenharia. Conduzi modernização tecnológica alinhando infraestrutura, direção de produto, práticas de entrega, estratégia de integração, governança operacional e objetivos de negócio.\nLiderei migração da AWS para Huawei Cloud usando GitOps, padrões serverless e Argo CD, melhorando controle de custo, desempenho de plataforma e previsibilidade operacional. Também introduzi e avaliei stacks como Go, Ruby on Rails, Symfony, Laravel, Node.js e PHP, selecionando tecnologias conforme objetivos de negócio, manutenibilidade, maturidade do time e complexidade da solução.\nEntreguei soluções escaláveis de e-commerce com Magento 2 e Adobe Commerce, mantendo sistemas críticos legados em Magento 1, Zend Framework e WordPress. Construí iniciativas de produto e plataforma, incluindo prova de conceito SaaS, construtor automatizado de lojas, ferramenta unificada de relatórios, tooling interno e plataforma de suporte ao desenvolvedor.\nEstruturei pipelines de CI/CD com GitLab, Dokku e Buildpacks para melhorar o fluxo de entrega entre times de produto, suporte, implantação e engenharia. Também estabeleci ambientes de teste, práticas de qualidade de código e padrões de entrega que aumentaram a confiabilidade, previsibilidade e qualidade de software entre múltiplas equipes."
+    },
+    {
+      "company": "Bis2Bis E-commerce",
+      "position": "Engineering Manager / Technical Lead, Product Delivery",
+      "period": "Março de 2021 - Março de 2022",
+      "location": "Londrina, Paraná, Brasil",
+      "description": "Gerenciei entrega de engenharia em suporte, implantação, integrações, demandas urgentes e manutenção, mantendo responsabilidade técnica sobre evolução de plataforma, estabilidade operacional e qualidade das soluções entregues. Consolidei uma operação com 40 desenvolvedores em uma estrutura unificada, melhorando a coordenação entre manutenção de produto, suporte, integrações e implementação.\nGerenciei aproximadamente 1.500 projetos em ambientes isolados de staging e produção, fortalecendo rastreabilidade, controle de mudanças, gestão de obsolescência e estabilidade operacional. Liderei migração de infraestrutura legada para Docker e estruturei CI/CD com GitLab CI, aumentando consistência de entrega, previsibilidade de ambiente e redução de fricção operacional.\nImplementei Jira Software e Jira Service Management como sistema operacional para acompanhamento de projetos, fluxo de demandas, operações de serviço, visibilidade de entrega e controle de suporte avançado. Também construí microsserviços Laravel para cenários de marketplace e integrações Zend Framework para contextos ERP, melhorando separação de responsabilidades, modularidade e evolução arquitetural."
+    },
+    {
+      "company": "Bis2Bis E-commerce",
+      "position": "Technical Lead / Backend Product Engineering",
+      "period": "Novembro de 2020 - Março de 2021",
+      "location": "Londrina, Paraná, Brasil",
+      "description": "Liderei um grupo de desenvolvimento durante reestruturação, equilibrando coordenação de entrega, consistência arquitetural, redução de backlog operacional e orientação técnica para desenvolvedores backend e frontend. Coordenei aproximadamente 20 desenvolvedores em frentes de frontend, backend, integrações e manutenção.\nPriorizei, deleguei e acompanhei trabalho em cerca de 1.200 projetos, preservando fluxo contínuo de entrega, estabilidade operacional e atendimento a demandas críticas de clientes. Reorganizei módulos em pacotes reutilizáveis e melhorei processos de build e deploy, reduzindo o backlog de 900 para 300 tickets.\nContribuí com contratação, onboarding, definição de trilhas de carreira, padrões de engenharia, automações e práticas de entrega que elevaram a maturidade técnica e a consistência arquitetural do time."
+    },
+    {
+      "company": "Bis2Bis E-commerce",
+      "position": "Backend Engineer, Commerce, APIs & Integrations",
+      "period": "Novembro de 2019 - Novembro de 2020",
+      "location": "Londrina, Paraná, Brasil",
+      "description": "Entreguei desenvolvimento backend, melhorias de desempenho e integrações para plataformas de comércio de alto volume e requisitos específicos de clientes. Resolvi aproximadamente 3.200 tickets técnicos e funcionais via Redmine e Jira Service Management, cobrindo suporte, implantação, melhoria contínua, análise de problemas, correção de incidentes e evolução de produto.\nContribuí em mais de 500 projetos envolvendo ERPs, gateways de pagamento, marketplaces, cupons, integrações logísticas e fluxos transacionais críticos. Implementei rotinas complexas em PHP 5.x e PHP 7.x com MySQL, GraphQL, otimização de consultas e lógica de integração, aumentando robustez, escalabilidade e confiabilidade operacional.\nIntroduzi cache com Redis, arquitetura MySQL master-slave, melhorias de performance em banco de dados e diagnósticos baseados em ELK em ambientes Magento 1. Também co-criei o Corsair, primeira ferramenta da empresa para automação de ambientes de desenvolvimento baseados em Docker, padronizando setup e acelerando onboarding técnico."
+    },
+    {
+      "company": "Bis2Bis E-commerce",
+      "position": "Backend Jr Developer, Commerce Platform & Integrations",
+      "period": "Setembro de 2018 - Novembro de 2019",
+      "location": "Londrina, Paraná, Brasil",
+      "description": "Desenvolvi e mantive módulos Magento 1 e Magento 2 com foco em estabilidade operacional, otimização de performance, regras de negócio específicas de clientes e funcionalidades backend voltadas ao produto. Resolvi aproximadamente 1.600 tickets de suporte e implantação, cumprindo SLAs e alinhando resultados técnicos às expectativas dos clientes.\nContribuí em cerca de 300 projetos envolvendo integrações complexas, customizações avançadas de e-commerce, APIs, MySQL, PHP, performance, manutenção e evolução de plataforma. Também ajudei a construir o primeiro projeto headless Magento 2 da empresa usando Vue.js, Pug, GraphQL, Webpack e Node.js, validando arquitetura desacoplada orientada por APIs."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Software Architecture & Technology of Large-Scale Systems",
+      "issuer": "Udemy",
+      "year": "2026"
+    },
+    {
+      "title": "Backend Master Class [Golang + Postgres + Kubernetes + gRPC]",
+      "issuer": "Udemy",
+      "year": "2025"
+    },
+    {
+      "title": "Curso preparatório para Kubernetes Certified Application Developer (CKAD)",
+      "issuer": "Udemy",
+      "year": "2026"
+    },
+    {
+      "title": "Microservices Software Architecture: Patterns and Techniques",
+      "issuer": "Udemy",
+      "year": "2026"
+    },
+    {
+      "title": "Testes unitários e TDD com PHP e PHPUnit",
+      "issuer": "Udemy",
+      "year": "2023"
+    },
+    {
+      "title": "Gitlab CI e Docker: Pipeline de entrega contínua",
+      "issuer": "Alura",
+      "year": "2021"
+    },
+    {
+      "title": "SOLID com PHP: princípios da programação orientada a objetos",
+      "issuer": "Alura",
+      "year": "2022"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidade Estadual de Londrina - UEL",
+      "degree": "Mestrado em Ciência da Computação",
+      "period": "iniciado em janeiro de 2025"
+    },
+    {
+      "institution": "Universidade Estadual de Londrina - UEL",
+      "degree": "Especialização em Engenharia de Software",
+      "period": "março de 2023 a dezembro de 2024"
+    },
+    {
+      "institution": "SENAI Londrina",
+      "degree": "Técnico em Sistemas de Informação / Programador",
+      "period": "2017 a 2019"
+    },
+    {
+      "institution": "Faculdade Pitágoras",
+      "degree": "Comunicação Social, Publicidade e Propaganda, Administração, Negócios e Marketing",
+      "period": "janeiro de 2014 a dezembro de 2017"
+    }
+  ],
+  "languages": "Português nativo. Inglês técnico para leitura de documentação, análise de requisitos, investigação de incidentes, comunicação assíncrona, integração com APIs, ferramentas cloud, DevOps e desenvolvimento de software.",
+  "data": {
+    "certificates": [
+      {
+        "title": "Inteligência Artificial com PHP-ML",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em abr de 2026",
+        "credentialCode": "Código da credencial UC-7b4886a0-5cc6-45dc-adf7-1d69b6f0e566",
+        "link": "https://www.udemy.com/certificate/UC-7b4886a0-5cc6-45dc-adf7-1d69b6f0e566/",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "Curso preparatório para Kubernetes Certified Application Developer (CKAD)",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em abr de 2026",
+        "credentialCode": "Código da credencial UC-410cc37a-ff47-4bf7-a917-e6dbecb76605",
+        "link": "https://www.udemy.com/certificate/UC-410cc37a-ff47-4bf7-a917-e6dbecb76605/",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "Software Architecture & Technology of Large-Scale Systems",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em abr de 2026",
+        "credentialCode": "Código da credencial UC-5db9c78f-50bd-43ed-b3f0-5877e3f04647",
+        "link": "https://www.udemy.com/certificate/UC-5db9c78f-50bd-43ed-b3f0-5877e3f04647",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "Microservices Software Architecture: Patterns and Techniques",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em mar de 2026",
+        "credentialCode": "Código da credencial UC-7ebd3c35-90b1-44dd-b02a-b4a90a56ae43",
+        "link": "https://www.udemy.com/certificate/UC-7ebd3c35-90b1-44dd-b02a-b4a90a56ae43",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "Ruby on Rails 4.x",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em fev de 2022",
+        "credentialCode": "Código da credencial UC-065d2a64-7fd4-4550-96e6-1df112a99e2a",
+        "link": "https://www.udemy.com/certificate/UC-065d2a64-7fd4-4550-96e6-1df112a99e2a/",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "Magento 2 Module Development",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em mai de 2023",
+        "credentialCode": "Código da credencial UC-96e2615a-c780-4f22-8bd4-b52b79295718",
+        "link": "https://www.udemy.com/certificate/UC-96e2615a-c780-4f22-8bd4-b52b79295718/",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "Jira Software",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em ago de 2025",
+        "credentialCode": "Código da credencial UC-856f9100-0139-493d-a3f5-fad15f2776ad",
+        "link": "https://www.udemy.com/certificate/UC-856f9100-0139-493d-a3f5-fad15f2776ad/",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "Backend Master Class [Golang + Postgres + Kubernetes + gRPC]",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em nov de 2025",
+        "credentialCode": "Código da credencial UC-713d1829-551e-47d9-9009-ef0ff11d7696",
+        "link": "https://www.udemy.com/certificate/UC-713d1829-551e-47d9-9009-ef0ff11d7696/",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "Rust",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em dez de 2025",
+        "credentialCode": "Código da credencial UC-c4005277-c278-48a8-9f8f-ef03065a6c9f",
+        "link": "https://www.udemy.com/certificate/UC-c4005277-c278-48a8-9f8f-ef03065a6c9f/",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "Jira Software: Criando Projetos Completos",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em ago de 2025",
+        "credentialCode": "Código da credencial UC-856f9100-0139-493d-a3f5-fad15f2776ad/",
+        "link": "https://www.udemy.com/certificate/UC-856f9100-0139-493d-a3f5-fad15f2776ad/",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "Go (Golang): Explorando a Linguagem do Google",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em fev de 2024",
+        "credentialCode": "Código da credencial UC-c9d5cdc4-0613-4055-aa79-bda0b24ccbb4",
+        "link": "https://www.udemy.com/certificate/UC-c9d5cdc4-0613-4055-aa79-bda0b24ccbb4",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "Blockchain Programming",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em fev de 2024",
+        "credentialCode": "Código da credencial UC-26b3e42c-a429-4706-bf2e-cf600a5247b2",
+        "link": "https://www.udemy.com/certificate/UC-26b3e42c-a429-4706-bf2e-cf600a5247b2/",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "GO E GIN: CRIANDO API REST COM SIMPLICIDADE",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em fev de 2024",
+        "credentialCode": "Código da credencial c77c0cb7-4583-4057-8524-13eaca698289",
+        "link": "https://cursos.alura.com.br/certificate/c77c0cb7-4583-4057-8524-13eaca698289?lang=pt_BR",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "GO: VALIDAÇÕES, TESTES E PÁGINAS HTML",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em fev de 2024",
+        "credentialCode": "Código da credencial 57c1eebe-baa9-44a2-94f5-76effc29f371",
+        "link": "https://cursos.alura.com.br/certificate/57c1eebe-baa9-44a2-94f5-76effc29f371?lang=pt_BR",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "GO: DESENVOLVENDO UMA API REST",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em fev de 2024",
+        "credentialCode": "Código da credencial ff8ed953-c94d-49de-ab8a-a94b145855fd",
+        "link": "https://cursos.alura.com.br/certificate/ff8ed953-c94d-49de-ab8a-a94b145855fd?lang=pt_BR",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "GO: CRIE UMA APLICAÇÃO WEB",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em fev de 2024",
+        "credentialCode": "Código da credencial def90572-94d8-46ad-b097-f9335891082a",
+        "link": "https://cursos.alura.com.br/certificate/def90572-94d8-46ad-b097-f9335891082a?lang=pt_BR",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "GO: ORIENTAÇÃO A OBJETOS",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em fev de 2024",
+        "credentialCode": "Código da credencial b79b4d11-2005-489d-ad8c-92088d9455db",
+        "link": "https://cursos.alura.com.br/certificate/b79b4d11-2005-489d-ad8c-92088d9455db?lang=pt_BR",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "Go: A linguagem do google",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em fev de 2024",
+        "credentialCode": "Código da credencial 400b1cd9-2444-4459-899e-5007da4050a0",
+        "link": "https://cursos.alura.com.br/certificate/400b1cd9-2444-4459-899e-5007da4050a0?lang=pt_BR",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "Dominando Banco de Dados com MySQL",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em fev de 2024",
+        "credentialCode": "Código da credencial UC-8421244a-c4c0-49ef-a75f-d13b5a486681",
+        "link": "https://www.udemy.com/certificate/UC-8421244a-c4c0-49ef-a75f-d13b5a486681/",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "Docker: Ferramenta essencial para Desenvolvedores",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em nov de 2022",
+        "credentialCode": "Código da credencial UC-4d28e289-8e51-41a6-8a84-c36119619bff",
+        "link": "https://www.udemy.com/certificate/UC-4d28e289-8e51-41a6-8a84-c36119619bff/",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "Testes unitários e TDD com PHP e PHPUnit",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em jun de 2023",
+        "credentialCode": "Código da credencial UC-51a0b017-7e14-4854-8148-a73d85114222",
+        "link": "https://www.udemy.com/certificate/UC-51a0b017-7e14-4854-8148-a73d85114222/",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "PHP 8: Curso de Desenvolvimento Web Completo",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em jun de 2023",
+        "credentialCode": "Código da credencial UC-3f7c513c-b703-49f3-b77e-d615a551f2b6",
+        "link": "https://www.udemy.com/certificate/UC-3f7c513c-b703-49f3-b77e-d615a551f2b6/",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.751Z"
+      },
+      {
+        "title": "Curso Web Design Completo: HTML5, CSS3 e JS + 5 Projetos",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em mai de 2022",
+        "credentialCode": "Código da credencial UC-f376b2c6-33c6-4a98-b776-4b238ad75299",
+        "link": "https://www.udemy.com/certificate/UC-f376b2c6-33c6-4a98-b776-4b238ad75299/",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "Curso Completo de PHP 7",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em mai de 2022",
+        "credentialCode": "Código da credencial UC-0123b2af-d279-43e6-a41e-473dc2e507ac",
+        "link": "https://www.udemy.com/certificate/UC-0123b2af-d279-43e6-a41e-473dc2e507ac/",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "SOLID - Os 5 Princípios para as Boas Práticas da POO",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em mai de 2022",
+        "credentialCode": "Código da credencial UC-225dd354-5e19-44bc-ad94-a484dd421370",
+        "link": "https://www.udemy.com/certificate/UC-225dd354-5e19-44bc-ad94-a484dd421370/",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "Gitlab CI: Pipelines, Continuous Delivery e Deployment",
+        "organization": "Udemy",
+        "issuedDate": "Verificação emitida em mai de 2022",
+        "credentialCode": "Código da credencial UC-011fc96b-9dc2-4490-951f-537439f6f8c7",
+        "link": "https://www.udemy.com/certificate/UC-011fc96b-9dc2-4490-951f-537439f6f8c7/",
+        "companyUrl": "https://www.linkedin.com/company/822535/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "SOLID com PHP: princípios da programação orientada a objetos",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em jul de 2022",
+        "credentialCode": "Código da credencial dd4521df-7da7-4392-ae95-34298461bb40",
+        "link": "https://cursos.alura.com.br/certificate/dd4521df-7da7-4392-ae95-34298461bb40",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "PHP: conceitos, lidando com dados, loops e mais",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em fev de 2022",
+        "credentialCode": "Código da credencial cca5ba2c-c868-4ccf-8c9d-563450135d4c",
+        "link": "https://cursos.alura.com.br/certificate/cca5ba2c-c868-4ccf-8c9d-563450135d4c",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "PHP: dominando as Collections",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em mar de 2022",
+        "credentialCode": "Código da credencial 30e70a77-4797-4725-92fa-0a17299c4c98",
+        "link": "https://cursos.alura.com.br/certificate/30e70a77-4797-4725-92fa-0a17299c4c98",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "PHP: manipulando coleções com Arrays",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em mar de 2022",
+        "credentialCode": "Código da credencial 8208716b-2a8b-4f91-ae14-872ce64d5863",
+        "link": "https://cursos.alura.com.br/certificate/8208716b-2a8b-4f91-ae14-872ce64d5863",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "PHP: manipulando coleções com Arrays",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em fev de 2022",
+        "credentialCode": "Código da credencial 5926ae19-118c-4b53-8fee-95501ee74c33",
+        "link": "https://cursos.alura.com.br/certificate/5926ae19-118c-4b53-8fee-95501ee74c33",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "PHP Strings: Operações e expressões regulares",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em fev de 2022",
+        "credentialCode": "Código da credencial e27fd299-9c7d-4025-8d4c-b59d172f1e71",
+        "link": "https://cursos.alura.com.br/certificate/e27fd299-9c7d-4025-8d4c-b59d172f1e71",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "PHP Parallel: Processos, Threads e Channels",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em jun de 2022",
+        "credentialCode": "Código da credencial f7fce850-0941-4082-8b46-8289824b337b",
+        "link": "https://cursos.alura.com.br/certificate/f7fce850-0941-4082-8b46-8289824b337b",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "PHP I/O: trabalhando com arquivos e streams",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em jun de 2022",
+        "credentialCode": "Código da credencial c1277cbb-6dc0-4901-912d-4d254545422d",
+        "link": "https://cursos.alura.com.br/certificate/c1277cbb-6dc0-4901-912d-4d254545422d",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "PHP Exceptions: tratamento de erros",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em fev de 2022",
+        "credentialCode": "Código da credencial 8a530302-fd40-46cb-aaf1-1c6ea55fc370",
+        "link": "https://cursos.alura.com.br/certificate/8a530302-fd40-46cb-aaf1-1c6ea55fc370",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "PHP Composer: Dependências, Autoload e Publicação",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em jun de 2022",
+        "credentialCode": "Código da credencial 4f296697-13b8-40b3-8d4f-09a785368067",
+        "link": "https://cursos.alura.com.br/certificate/4f296697-13b8-40b3-8d4f-09a785368067",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "PHP e Behavior Driven Development: BDD com Behat",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em jun de 2022",
+        "credentialCode": "Código da credencial 457ee601-22a0-488c-8839-e12dff5749f0",
+        "link": "https://cursos.alura.com.br/certificate/457ee601-22a0-488c-8839-e12dff5749f0",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "PHP e Clean Architecture: descomplicando arquitetura de software",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em mar de 2022",
+        "credentialCode": "Código da credencial 1bfbca69-965d-4722-a1a5-906106b56ed8",
+        "link": "https://cursos.alura.com.br/certificate/1bfbca69-965d-4722-a1a5-906106b56ed8",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "PHP e MySQL: Criando uma webapp",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em fev de 2022",
+        "credentialCode": "Código da credencial 903329be-192e-4b37-b541-8065cebd7687",
+        "link": "https://cursos.alura.com.br/certificate/903329be-192e-4b37-b541-8065cebd7687",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "PHP Brasil: validação de dados no padrão nacional",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em mar de 2022",
+        "credentialCode": "Código da credencial f13c042f-13a4-4213-8ab9-7b8c06f12558",
+        "link": "https://cursos.alura.com.br/certificate/f13c042f-13a4-4213-8ab9-7b8c06f12558",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "Orientação a Objetos com PHP: Classes, métodos e atributos",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em fev de 2022",
+        "credentialCode": "Código da credencial a72d792e-2e25-4e42-9cd5-58a0c1a229da",
+        "link": "https://cursos.alura.com.br/certificate/a72d792e-2e25-4e42-9cd5-58a0c1a229da",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "Object Calisthenics: exercitando a Orientação a Objetos",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em jul de 2022",
+        "credentialCode": "Código da credencial dbd7a215-6a10-41dd-bf59-fe9fab833f63",
+        "link": "https://cursos.alura.com.br/certificate/dbd7a215-6a10-41dd-bf59-fe9fab833f63",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "Microsserviços: padrões de projeto",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em nov de 2021",
+        "credentialCode": "Código da credencial e654a3af-99b3-492d-9762-773641feb10b",
+        "link": "https://cursos.alura.com.br/certificate/e654a3af-99b3-492d-9762-773641feb10b",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "Metaprogramação com PHP: API de Reflection",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em jul de 2022",
+        "credentialCode": "Código da credencial 54c5ffe3-6ce5-4c28-ac6f-6ad19ff6b805",
+        "link": "https://cursos.alura.com.br/certificate/54c5ffe3-6ce5-4c28-ac6f-6ad19ff6b805",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "Gitlab CI e Docker: Pipeline de entrega contínua",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em nov de 2021",
+        "credentialCode": "Código da credencial adf91131-447e-437b-8860-f3283b072b05",
+        "link": "https://cursos.alura.com.br/certificate/adf91131-447e-437b-8860-f3283b072b05",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "Avançando com PHP: Arrays, Strings, Função e Web",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em fev de 2022",
+        "credentialCode": "Código da credencial 85c78ebe-3b3a-4765-abce-ef6f35f2723c",
+        "link": "https://cursos.alura.com.br/certificate/85c78ebe-3b3a-4765-abce-ef6f35f2723c",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      },
+      {
+        "title": "Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces",
+        "organization": "Alura",
+        "issuedDate": "Verificação emitida em fev de 2022",
+        "credentialCode": "Código da credencial c1356ad0-b4ca-4188-bb4f-5cad3186450f",
+        "link": "https://cursos.alura.com.br/certificate/c1356ad0-b4ca-4188-bb4f-5cad3186450f",
+        "companyUrl": "https://www.linkedin.com/company/3824181/",
+        "extractedAt": "2026-05-20T19:13:52.752Z"
+      }
+    ],
+    "education": [
+      {
+        "title": "UEL - Universidade Estadual de Londrina",
+        "organization": "Master's degree, Ciência da Computação",
+        "issuedDate": "jan de 2025",
+        "description": "Conduzo pesquisas aplicadas nas áreas de engenharia de software, arquitetura distribuída, segurança de redes e automação de processos, com foco em problemas reais e soluções implementáveis.\nDesenvolvo minha dissertação com o tema “Direito ao Esquecimento em Blockchain”, abordando criticamente os desafios jurídicos e computacionais decorrentes da imutabilidade dos dados em sistemas distribuídos.\nAplico tecnologias como Hyperledger, Solidity e blockchains públicas e permissionadas, com ênfase em criptografia, smart contracts, mecanismos de consenso e preservação de privacidade.\nUtilizo Python para análise de dados, desenvolvendo soluções voltadas à mineração, visualização, modelagem estatística e automação de processos.",
+        "credentialCode": "",
+        "link": "",
+        "companyUrl": "https://www.linkedin.com/company/2627240/",
+        "extractedAt": "2026-05-20T19:22:00.648Z"
+      },
+      {
+        "title": "UEL - Universidade Estadual de Londrina",
+        "organization": "Especialização em Engenharia de Software, Engenharia de Software",
+        "issuedDate": "mar de 2023 - dez de 2024",
+        "description": "Atividades e grupos: Engenharia de Software, Arquitetura de Sistemas, Metodologias Ágeis, Scrum, DevOps, CI/CD, Testes Automatizados, Qualidade de Software, Design de Software, Padrões de Projeto, Gestão de Projetos, Análise de Requisitos, Integração Contínua, Deployment, Desenvolvimento Ágil, Documentação Técnica, Refatoração, Manutenibilidade, Escalabilidade, Software Lifecycle, Engenharia de Requisitos, Especialização, UEL, Engenharia de Sistemas.…ver mais\nPossuo formação orientada à engenharia de software moderna, com ênfase no desenvolvimento de projetos complexos e escaláveis.\nDesenvolvi competências em sistemas distribuídos, modelagem de componentes e aplicação de padrões de projeto, visando organização arquitetural e reuso.\nApliquei metodologias ágeis como Scrum e Kanban, além de práticas de CI/CD e DevOps, incorporando automação de testes ao fluxo de desenvolvimento.\nAtuei com levantamento de requisitos, refatoração, documentação técnica e gestão do ciclo de vida de software (SDLC), garantindo evolução contínua das soluções.\nDirecionei esforços para qualidade de software (QA), utilizando diferentes estratégias de teste e métricas de qualidade para assegurar confiabilidade e desempenho.\nAprofundei minha formação em gestão de projetos e liderança técnica, consolidando capacidade de conduzir equipes e decisões estratégicas.",
+        "credentialCode": "",
+        "link": "",
+        "companyUrl": "https://www.linkedin.com/company/2627240/",
+        "extractedAt": "2026-05-20T19:22:00.648Z"
+      },
+      {
+        "title": "SENAI, Londrina",
+        "organization": "Information Systems Technician, Programmer",
+        "issuedDate": "2017 - 2019",
+        "description": "Atividades e grupos: Programação, Desenvolvimento Web, Java, PHP, MySQL, IoT, Arduino, Automação, Banco de Dados, Sistemas Embarcados, Internet das Coisas, Desenvolvimento de Software, Projetos Integradores, Tecnologias Emergentes, Engenharia de Software, Biotecnologia Aplicada, Análise de Dados, Qualidade da Água, APIs, Fullstack, Integração de Sistemas, Backend, Frontend, Oficina de Arduino, SENAI, Técnico em Informática.…ver mais\nPossuo formação técnica em desenvolvimento fullstack, aplicações web, automação e sistemas embarcados.\nDesenvolvi soluções de IoT utilizando Arduino, incluindo projetos de monitoramento de qualidade da água com integração de sensores.\nImplementei aplicações utilizando Java, PHP e MySQL, com interfaces responsivas e foco em usabilidade.\nAdquiri experiência em automação de processos e prototipagem eletrônica, conectando software e hardware em soluções práticas.\nParticipei de projetos de engenharia de software aplicando metodologias ágeis, contribuindo para entregas iterativas e organizadas.\nConsolidei conhecimentos em arquiteturas web modernas e nas principais tecnologias utilizadas no desenvolvimento contemporâneo.",
+        "credentialCode": "",
+        "link": "",
+        "companyUrl": "",
+        "extractedAt": "2026-05-20T19:22:00.648Z"
+      },
+      {
+        "title": "Faculdade Pitagoras",
+        "organization": "Comunicação Social - Publicidade e Propaganda, Administração, Negócios e Marketing",
+        "issuedDate": "jan de 2014 - dez de 2017",
+        "credentialCode": "",
+        "description": "Atividades e grupos: Marketing Digital, Publicidade, Planejamento de Campanhas, Branding, KPIs, Mídia, Produção de Conteúdo, Fotografia, Vídeo Marketing, Edição de Vídeo, Design Gráfico, Comunicação Integrada, Negociação, Briefing, Estratégia Comercial, Pesquisa de Mercado, Empreendedorismo, Gestão de Projetos, UX, Storytelling.\nAtuo com comunicação estratégica, marketing digital e experiência do usuário (UX), conectando de forma consistente os domínios técnico e de negócio.\nDesenvolvi competências em planejamento de campanhas, branding, pesquisa de mercado, produção multimídia e design gráfico, estruturando iniciativas orientadas a resultado.\nAprofundei conhecimentos em comportamento do consumidor, análise de KPIs, estratégia comercial e construção de narrativas voltadas à conversão.\nIntegro times de desenvolvimento e produto para construir soluções técnicas centradas no usuário, alinhando requisitos funcionais e experiência final.\nMantenho comunicação eficaz com stakeholders, traduzindo processos técnicos em valor de negócio e garantindo alinhamento entre estratégia, execução e objetivos organizacionais.",
+        "link": "",
+        "companyUrl": "",
+        "extractedAt": "2026-05-20T19:22:00.648Z"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Proof of erasure",
+        "dates": "ago de 2025 - até o momento",
+        "organization": "Associado(s) a UEL - Universidade Estadual de Londrina",
+        "description": "UEL - Blockchain, privacidade, criptografia, arquitetura distribuída\nPesquisa e protótipo sobre o conflito entre imutabilidade em blockchain e requisitos de apagamento da GDPR/LGPD. A arquitetura usa dados criptografados, atualizações versionadas e fingerprinting forense para sustentar um modelo de prova em três camadas para inacessibilidade criptográfica verificável.",
+        "skills": [
+          "docker"
+        ],
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQExWChnvCEJoA/company-logo_100_100/company-logo_100_100/0/1630530145701/uel___universidade_estadual_de_londrina_logo?e=1781136000&v=beta&t=1HrVf_16XVbZPQ80_hDFKSk_u0SShHuRux88Dz7oBII",
+        "extractedAt": "2026-05-20T19:26:45.513Z"
+      },
+      {
+        "title": "DID Behavior Analyzer",
+        "dates": "mar de 2025 - jun de 2025",
+        "organization": "Associado(s) a UEL - Universidade Estadual de Londrina",
+        "description": "UEL - Python, Vue.js, identidade descentralizada, análise de anomalias\nFerramenta de simulação e análise de comportamento de credenciais de identidade descentralizada. Gerou mais de 2 milhões de registros sintéticos para validar lógica de detecção de anomalias mantendo datasets de pesquisa reproduzíveis e auditáveis.",
+        "skills": [
+          "Python · Decentralized Identifiers · docker · Vue.js"
+        ],
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQExWChnvCEJoA/company-logo_100_100/company-logo_100_100/0/1630530145701/uel___universidade_estadual_de_londrina_logo?e=1781136000&v=beta&t=1HrVf_16XVbZPQ80_hDFKSk_u0SShHuRux88Dz7oBII",
+        "extractedAt": "2026-05-20T19:26:45.513Z"
+      },
+      {
+        "title": "Veritas",
+        "dates": "mar de 2025 - jun de 2025",
+        "organization": "Associado(s) a UEL - Universidade Estadual de Londrina",
+        "description": "Experimental platform for collaborative execution of zero-knowledge proofs over a P2P network, using parallel competitive processing with incentive mechanisms. Developed during my Master’s research, leveraging TypeScript for orchestration and Rust for network-critical and memory-sensitive components.\n- Implemented a race-based validation system that reduced average proof execution time in simulated environments.\n- Designed a reward system balancing speed and accuracy, increasing validator participation.\n- Some architectural details and datasets cannot be disclosed due to ongoing research and potential patentability.",
+        "skills": [
+          "Blockchain · docker · Vue.js"
+        ],
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQExWChnvCEJoA/company-logo_100_100/company-logo_100_100/0/1630530145701/uel___universidade_estadual_de_londrina_logo?e=1781136000&v=beta&t=1HrVf_16XVbZPQ80_hDFKSk_u0SShHuRux88Dz7oBII",
+        "extractedAt": "2026-05-20T19:26:45.513Z"
+      },
+      {
+        "title": "Build Your PC",
+        "dates": "Associado(s) a MegaMamute",
+        "organization": "Associado(s) a MegaMamute",
+        "description": "MegaMamute - VTEX CMS, JavaScript, jQueryLanding page dinâmica de configuração de produto que automatizava a criação de carrinho a partir da seleção de componentes de PC, gerando aumento superior a 20% no ticket médio durante campanhas dentro de restrições severas de CMS.",
+        "skills": [
+          "HTML5 · JavaScript · CSS"
+        ],
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQG_JMRqGl1OLg/company-logo_100_100/company-logo_100_100/0/1648590192348/megamamutecombr_logo?e=1781136000&v=beta&t=Nh5WeykdGjJuliObd33wi4kFUkiAOu4JbdSXzhQM3iQ",
+        "extractedAt": "2026-05-20T19:26:45.513Z"
+      },
+      {
+        "title": "Corsair",
+        "dates": "Associado(s) a Bis2Bis E-commerce",
+        "organization": "Associado(s) a Bis2Bis E-commerce",
+        "description": "Automation tool for Magento 1 & 2 development environments, built with PHP (Symfony/Console), ShellScript, and Docker.- Cut setup time from 3 hours to under 20 minutes, boosting productivity across teams of more than 40 developers.- Standardized processes across projects, reducing environment setup errors by 70%.",
+        "skills": [
+          "docker · DevOps (Kubernetes",
+          "Docker",
+          "CI/CD",
+          "Automação)"
+        ],
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHpt5qeACl1Yg/company-logo_100_100/company-logo_100_100/0/1630574594400/bis2bis_e_commerce_logo?e=1781136000&v=beta&t=g1ckkPgsXK8_357tHsbd_76rqLgR0JAjw78cKsGFlok",
+        "extractedAt": "2026-05-20T19:26:45.513Z"
+      },
+      {
+        "title": "Engine (Magento 2 Adapter)",
+        "dates": "Associado(s) a Bis2Bis E-commerce",
+        "organization": "Associado(s) a Bis2Bis E-commerce",
+        "description": "Module extending Magento 1 with Magento 2 features, using PHP ZendFramework.- Designed a modern dependency system, reducing incompatibility bugs by 35%.- Enabled legacy projects to benefit from modern module capabilities without full migration costs.",
+        "skills": [
+          "HTML5 · Zend Framework · docker · SQL · MySQL · Magento · JavaScript · Vue.js"
+        ],
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHpt5qeACl1Yg/company-logo_100_100/company-logo_100_100/0/1630574594400/bis2bis_e_commerce_logo?e=1781136000&v=beta&t=g1ckkPgsXK8_357tHsbd_76rqLgR0JAjw78cKsGFlok",
+        "extractedAt": "2026-05-20T19:26:45.513Z"
+      },
+      {
+        "title": "MageSearch",
+        "dates": "Associado(s) a Bis2Bis E-commerce",
+        "organization": "Associado(s) a Bis2Bis E-commerce",
+        "description": "Bis2Bis - MySQL, Magento EAV, product discoverySistema de busca full-text desenhado para o modelo EAV do Magento com ranking baseado em atributos. Melhorou relevância de busca e descoberta de produtos sem exigir infraestrutura separada com Solr ou Elasticsearch.",
+        "skills": [
+          "HTML5 · Elasticsearch · docker · MySQL · JavaScript · Vue.js"
+        ],
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHpt5qeACl1Yg/company-logo_100_100/company-logo_100_100/0/1630574594400/bis2bis_e_commerce_logo?e=1781136000&v=beta&t=g1ckkPgsXK8_357tHsbd_76rqLgR0JAjw78cKsGFlok",
+        "extractedAt": "2026-05-20T19:26:45.513Z"
+      },
+      {
+        "title": "Magento Multitenancy",
+        "dates": "Associado(s) a Bis2Bis E-commerce",
+        "organization": "Associado(s) a Bis2Bis E-commerce",
+        "description": "Proof-of-concept project to introduce multitenancy capabilities into Magento 1, achieved by modifying its core behavior and leveraging load balancers. The initiative enabled more than 1,000 projects to operate on a single unified codebase, moving away from a fragmented, multi-faceted system.-Consolidated infrastructure reduced overall maintenance efforts and deployment complexity across large-scale implementations.-Demonstrated scalability and efficiency gains, with measurable reductions in patching and upgrade times.-Served as a foundation for unifying diverse e-commerce operations under a centralized architecture, validating the feasibility of long-term consolidation strategies.",
+        "skills": [
+          "HTML5 · docker · SQL · Aplicativos web escalonáveis · MySQL · JavaScript · Vue.js"
+        ],
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHpt5qeACl1Yg/company-logo_100_100/company-logo_100_100/0/1630574594400/bis2bis_e_commerce_logo?e=1781136000&v=beta&t=g1ckkPgsXK8_357tHsbd_76rqLgR0JAjw78cKsGFlok",
+        "extractedAt": "2026-05-20T19:26:45.513Z"
+      },
+      {
+        "title": "MicroClean",
+        "dates": "Associado(s) a SENAI, Londrina",
+        "organization": "Associado(s) a SENAI, Londrina",
+        "description": "IoT system developed with .NET (C#) and Arduino (C/C++) for real-time monitoring of water filtration quality.- Awarded 4th place in a national SENAI competition.- Delivered sensor accuracy above 92% in validation scenarios.- Interdisciplinary collaboration with biotechnology ensured real industrial applicability.",
+        "skills": [],
+        "logoUrl": "",
+        "extractedAt": "2026-05-20T19:26:45.513Z"
+      },
+      {
+        "title": "Utility Bill Payment Module",
+        "dates": "Developed a Magento 2 payment solution (CORBAN) for settling water and electricity bills using promotional points as an internal payment method. The system was integrated with Itaú Bank and later extended to Bradesco, ensuring secure, real-time financial transactions within the e-commerce environment.-Enabled customers to convert loyalty points into direct payments for essential services, boosting engagement and platform stickiness.-Delivered seamless banking integrations, reducing transaction failures by over 30% compared to legacy processes.-Provided a scalable foundation for expanding financial services within Magento 2, strengthening its role as a multi-purpose commerce hub.",
+        "organization": "",
+        "description": "Developed a Magento 2 payment solution (CORBAN) for settling water and electricity bills using promotional points as an internal payment method. The system was integrated with Itaú Bank and later extended to Bradesco, ensuring secure, real-time financial transactions within the e-commerce environment.-Enabled customers to convert loyalty points into direct payments for essential services, boosting engagement and platform stickiness.-Delivered seamless banking integrations, reducing transaction failures by over 30% compared to legacy processes.-Provided a scalable foundation for expanding financial services within Magento 2, strengthening its role as a multi-purpose commerce hub.",
+        "skills": [
+          "PHP · HTML5 · Magento 2 · docker · MySQL · JavaScript"
+        ],
+        "logoUrl": "",
+        "extractedAt": "2026-05-20T19:26:45.513Z"
+      }
+    ]
+  }
+}

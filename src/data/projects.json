@@ -1,0 +1,113 @@
+[
+  {
+    "title": "Proof of erasure",
+    "dates": "ago de 2025 - até o momento",
+    "organization": "Associado(s) a UEL - Universidade Estadual de Londrina",
+    "description": "UEL - Blockchain, privacidade, criptografia, arquitetura distribuída\nPesquisa e protótipo sobre o conflito entre imutabilidade em blockchain e requisitos de apagamento da GDPR/LGPD. A arquitetura usa dados criptografados, atualizações versionadas e fingerprinting forense para sustentar um modelo de prova em três camadas para inacessibilidade criptográfica verificável.",
+    "skills": [
+      "docker"
+    ],
+    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQExWChnvCEJoA/company-logo_100_100/company-logo_100_100/0/1630530145701/uel___universidade_estadual_de_londrina_logo?e=1781136000&v=beta&t=1HrVf_16XVbZPQ80_hDFKSk_u0SShHuRux88Dz7oBII",
+    "extractedAt": "2026-05-20T19:26:45.513Z"
+  },
+  {
+    "title": "DID Behavior Analyzer",
+    "dates": "mar de 2025 - jun de 2025",
+    "organization": "Associado(s) a UEL - Universidade Estadual de Londrina",
+    "description": "UEL - Python, Vue.js, identidade descentralizada, análise de anomalias\nFerramenta de simulação e análise de comportamento de credenciais de identidade descentralizada. Gerou mais de 2 milhões de registros sintéticos para validar lógica de detecção de anomalias mantendo datasets de pesquisa reproduzíveis e auditáveis.",
+    "skills": [
+      "Python · Decentralized Identifiers · docker · Vue.js"
+    ],
+    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQExWChnvCEJoA/company-logo_100_100/company-logo_100_100/0/1630530145701/uel___universidade_estadual_de_londrina_logo?e=1781136000&v=beta&t=1HrVf_16XVbZPQ80_hDFKSk_u0SShHuRux88Dz7oBII",
+    "extractedAt": "2026-05-20T19:26:45.513Z"
+  },
+  {
+    "title": "Veritas",
+    "dates": "mar de 2025 - jun de 2025",
+    "organization": "Associado(s) a UEL - Universidade Estadual de Londrina",
+    "description": "Experimental platform for collaborative execution of zero-knowledge proofs over a P2P network, using parallel competitive processing with incentive mechanisms. Developed during my Master’s research, leveraging TypeScript for orchestration and Rust for network-critical and memory-sensitive components.\n- Implemented a race-based validation system that reduced average proof execution time in simulated environments.\n- Designed a reward system balancing speed and accuracy, increasing validator participation.\n- Some architectural details and datasets cannot be disclosed due to ongoing research and potential patentability.",
+    "skills": [
+      "Blockchain · docker · Vue.js"
+    ],
+    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQExWChnvCEJoA/company-logo_100_100/company-logo_100_100/0/1630530145701/uel___universidade_estadual_de_londrina_logo?e=1781136000&v=beta&t=1HrVf_16XVbZPQ80_hDFKSk_u0SShHuRux88Dz7oBII",
+    "extractedAt": "2026-05-20T19:26:45.513Z"
+  },
+  {
+    "title": "Build Your PC",
+    "dates": "Associado(s) a MegaMamute",
+    "organization": "Associado(s) a MegaMamute",
+    "description": "MegaMamute - VTEX CMS, JavaScript, jQueryLanding page dinâmica de configuração de produto que automatizava a criação de carrinho a partir da seleção de componentes de PC, gerando aumento superior a 20% no ticket médio durante campanhas dentro de restrições severas de CMS.",
+    "skills": [
+      "HTML5 · JavaScript · CSS"
+    ],
+    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQG_JMRqGl1OLg/company-logo_100_100/company-logo_100_100/0/1648590192348/megamamutecombr_logo?e=1781136000&v=beta&t=Nh5WeykdGjJuliObd33wi4kFUkiAOu4JbdSXzhQM3iQ",
+    "extractedAt": "2026-05-20T19:26:45.513Z"
+  },
+  {
+    "title": "Corsair",
+    "dates": "Associado(s) a Bis2Bis E-commerce",
+    "organization": "Associado(s) a Bis2Bis E-commerce",
+    "description": "Automation tool for Magento 1 & 2 development environments, built with PHP (Symfony/Console), ShellScript, and Docker.- Cut setup time from 3 hours to under 20 minutes, boosting productivity across teams of more than 40 developers.- Standardized processes across projects, reducing environment setup errors by 70%.",
+    "skills": [
+      "docker · DevOps (Kubernetes",
+      "Docker",
+      "CI/CD",
+      "Automação)"
+    ],
+    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHpt5qeACl1Yg/company-logo_100_100/company-logo_100_100/0/1630574594400/bis2bis_e_commerce_logo?e=1781136000&v=beta&t=g1ckkPgsXK8_357tHsbd_76rqLgR0JAjw78cKsGFlok",
+    "extractedAt": "2026-05-20T19:26:45.513Z"
+  },
+  {
+    "title": "Engine (Magento 2 Adapter)",
+    "dates": "Associado(s) a Bis2Bis E-commerce",
+    "organization": "Associado(s) a Bis2Bis E-commerce",
+    "description": "Module extending Magento 1 with Magento 2 features, using PHP ZendFramework.- Designed a modern dependency system, reducing incompatibility bugs by 35%.- Enabled legacy projects to benefit from modern module capabilities without full migration costs.",
+    "skills": [
+      "HTML5 · Zend Framework · docker · SQL · MySQL · Magento · JavaScript · Vue.js"
+    ],
+    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHpt5qeACl1Yg/company-logo_100_100/company-logo_100_100/0/1630574594400/bis2bis_e_commerce_logo?e=1781136000&v=beta&t=g1ckkPgsXK8_357tHsbd_76rqLgR0JAjw78cKsGFlok",
+    "extractedAt": "2026-05-20T19:26:45.513Z"
+  },
+  {
+    "title": "MageSearch",
+    "dates": "Associado(s) a Bis2Bis E-commerce",
+    "organization": "Associado(s) a Bis2Bis E-commerce",
+    "description": "Bis2Bis - MySQL, Magento EAV, product discoverySistema de busca full-text desenhado para o modelo EAV do Magento com ranking baseado em atributos. Melhorou relevância de busca e descoberta de produtos sem exigir infraestrutura separada com Solr ou Elasticsearch.",
+    "skills": [
+      "HTML5 · Elasticsearch · docker · MySQL · JavaScript · Vue.js"
+    ],
+    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHpt5qeACl1Yg/company-logo_100_100/company-logo_100_100/0/1630574594400/bis2bis_e_commerce_logo?e=1781136000&v=beta&t=g1ckkPgsXK8_357tHsbd_76rqLgR0JAjw78cKsGFlok",
+    "extractedAt": "2026-05-20T19:26:45.513Z"
+  },
+  {
+    "title": "Magento Multitenancy",
+    "dates": "Associado(s) a Bis2Bis E-commerce",
+    "organization": "Associado(s) a Bis2Bis E-commerce",
+    "description": "Proof-of-concept project to introduce multitenancy capabilities into Magento 1, achieved by modifying its core behavior and leveraging load balancers. The initiative enabled more than 1,000 projects to operate on a single unified codebase, moving away from a fragmented, multi-faceted system.-Consolidated infrastructure reduced overall maintenance efforts and deployment complexity across large-scale implementations.-Demonstrated scalability and efficiency gains, with measurable reductions in patching and upgrade times.-Served as a foundation for unifying diverse e-commerce operations under a centralized architecture, validating the feasibility of long-term consolidation strategies.",
+    "skills": [
+      "HTML5 · docker · SQL · Aplicativos web escalonáveis · MySQL · JavaScript · Vue.js"
+    ],
+    "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHpt5qeACl1Yg/company-logo_100_100/company-logo_100_100/0/1630574594400/bis2bis_e_commerce_logo?e=1781136000&v=beta&t=g1ckkPgsXK8_357tHsbd_76rqLgR0JAjw78cKsGFlok",
+    "extractedAt": "2026-05-20T19:26:45.513Z"
+  },
+  {
+    "title": "MicroClean",
+    "dates": "Associado(s) a SENAI, Londrina",
+    "organization": "Associado(s) a SENAI, Londrina",
+    "description": "IoT system developed with .NET (C#) and Arduino (C/C++) for real-time monitoring of water filtration quality.- Awarded 4th place in a national SENAI competition.- Delivered sensor accuracy above 92% in validation scenarios.- Interdisciplinary collaboration with biotechnology ensured real industrial applicability.",
+    "skills": [],
+    "logoUrl": "",
+    "extractedAt": "2026-05-20T19:26:45.513Z"
+  },
+  {
+    "title": "Utility Bill Payment Module",
+    "dates": "Developed a Magento 2 payment solution (CORBAN) for settling water and electricity bills using promotional points as an internal payment method. The system was integrated with Itaú Bank and later extended to Bradesco, ensuring secure, real-time financial transactions within the e-commerce environment.-Enabled customers to convert loyalty points into direct payments for essential services, boosting engagement and platform stickiness.-Delivered seamless banking integrations, reducing transaction failures by over 30% compared to legacy processes.-Provided a scalable foundation for expanding financial services within Magento 2, strengthening its role as a multi-purpose commerce hub.",
+    "organization": "",
+    "description": "Developed a Magento 2 payment solution (CORBAN) for settling water and electricity bills using promotional points as an internal payment method. The system was integrated with Itaú Bank and later extended to Bradesco, ensuring secure, real-time financial transactions within the e-commerce environment.-Enabled customers to convert loyalty points into direct payments for essential services, boosting engagement and platform stickiness.-Delivered seamless banking integrations, reducing transaction failures by over 30% compared to legacy processes.-Provided a scalable foundation for expanding financial services within Magento 2, strengthening its role as a multi-purpose commerce hub.",
+    "skills": [
+      "PHP · HTML5 · Magento 2 · docker · MySQL · JavaScript"
+    ],
+    "logoUrl": "",
+    "extractedAt": "2026-05-20T19:26:45.513Z"
+  }
+]
