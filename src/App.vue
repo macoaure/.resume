@@ -10,7 +10,7 @@ const toggleLanguage = () => {
 
 <template>
   <div class="min-h-screen bg-white">
-    <div class="fixed top-4 right-4 z-50">
+    <div class="fixed top-4 right-4 z-50 print:hidden">
       <button
         @click="toggleLanguage"
         class="px-4 py-2 bg-green-900 text-white rounded-lg hover:bg-green-800 transition-colors text-sm font-medium"

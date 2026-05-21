@@ -36,7 +36,7 @@ watch(resetTrigger, () => {
     <h2 class="text-xl font-bold mb-3 pb-1.5 border-b border-gray-300 text-green-900">
       {{ $t('sections.experience') }}
     </h2>
-    <div class="grid grid-cols-1 gap-6">
+    <div class="grid grid-cols-1">
       <article
         v-for="originalIdx in (visibleItemIndices as any[])"
         :key="originalIdx"
@@ -45,19 +45,20 @@ watch(resetTrigger, () => {
         @dragover="handleItemDragOver"
         @drop="handleItemDrop(originalIdx)"
         :data-item-index="originalIdx"
-        class="space-y-2 transition"
+        class="space-y-2 transition pt-1 pb-1"
         :class="{
+          'border-t border-gray-300': originalIdx !== 0,
           'opacity-50 cursor-move border-l-4 border-green-900 pl-2': draggedItemIndex === originalIdx,
           'cursor-grab': editMode
         }"
       >
         <div class="flex items-start justify-between gap-4">
           <div class="flex-1">
-            <h3 class="text-base font-bold mt-5 mb-1">{{ experienceList[originalIdx].company }} - {{ experienceList[originalIdx].position }}</h3>
+            <h3 class="text-base font-bold mt-1 mb-1">{{ experienceList[originalIdx].company }} - {{ experienceList[originalIdx].position }}</h3>
             <p class="text-gray-600 text-xs font-bold">{{ experienceList[originalIdx].period }} · {{ experienceList[originalIdx].location }}</p>
             <p class="text-sm leading-relaxed" v-html="formatDescription(experienceList[originalIdx].description)"></p>
           </div>
-          <div v-if="editMode" class="flex gap-2">
+          <div v-if="editMode" class="flex gap-2 print:hidden">
             <button
               @click="toggleItemVisibility(originalIdx)"
               :title="isItemHidden(originalIdx) ? 'Show' : 'Hide'"
