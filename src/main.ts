@@ -4,7 +4,15 @@ import App from './App.vue'
 import router from './router'
 import i18n from './i18n'
 
-createApp(App)
+const app = createApp(App)
   .use(router)
   .use(i18n)
-  .mount('#app')
+
+// Handle SPA redirect from 404.html
+const redirect = sessionStorage.redirect
+if (redirect) {
+  delete sessionStorage.redirect
+  router.replace(redirect)
+}
+
+app.mount('#app')
