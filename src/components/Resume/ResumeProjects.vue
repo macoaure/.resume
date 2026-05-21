@@ -34,7 +34,7 @@ watch(resetTrigger, () => {
     <h2 class="text-xl font-bold mb-3 pb-1.5 border-b border-gray-300 text-green-900">
       Projects
     </h2>
-    
+
     <!-- Projects list -->
     <div v-if="projectsList.length > 0" class="space-y-3">
       <div

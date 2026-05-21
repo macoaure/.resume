@@ -57,15 +57,6 @@ watch(resetTrigger, () => {
           <p class="text-gray-600">
             {{ certificationsList[originalIdx].organization }} • {{ certificationsList[originalIdx].issuedDate }}
           </p>
-          <a
-            v-if="certificationsList[originalIdx].link"
-            :href="certificationsList[originalIdx].link"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="text-green-700 hover:text-green-900 text-xs underline"
-          >
-            {{ $t('common.view_credential') || 'View Credential' }}
-          </a>
         </div>
         <button
           v-if="editMode"
