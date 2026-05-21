@@ -1,10 +1,7 @@
 <script setup lang="ts">
 import { computed, inject, ref, watch } from 'vue'
-import { useI18n } from 'vue-i18n'
 import { useItemEditor } from '@/composables/useItemEditor'
 import certificatesData from '@/data/certificates.json'
-
-const { t } = useI18n()
 const editMode = inject<any>('editMode', ref(false))
 const resetTrigger = inject<any>('resetTrigger', ref(0))
 
